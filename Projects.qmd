@@ -1,3 +1,22 @@
 ---
 title: "Projects"
 ---
+
+In the Spring of 2025 I took a Quantitative Reasonsing class based in R. I wrote some code, and did some cool data sceince.
+
+## [Building a project website]()
+
+-   In this assignemnt we built a static users site with Github Pages
+-   Includes a github repo for access to all the code
+
+In Spring of 2024 I took a Geospatial Science class that was based in ArcGIS Pro where I gained useful mapping skills
+
+## [Camping Suitability]()
+
+-   In this project we found sustaible camping spots off the Teton Crest Trail and the best mountain views and least amount of slope
+
+-   Includes a map graphic which visualizes the result of the analysis
+
+-   
+
+    ## Additionally there is a snapshot of the completed model in which the map was designed

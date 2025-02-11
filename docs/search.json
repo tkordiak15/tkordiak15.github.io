@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi:) My name is Tayler Kordiak and I’m a fourth year at Colorado State University working on my Bachelor’s of Science in Ecosystem Science and Sustainability. I’m excited to get out into the real world and start my first “big girl” job now that my education is coming to a close, and that means that graduate school is not going to be an option, at least for right now. I really enjoy field work, and am skilled in larvacide application, idenification of Colorado and Wyomning mosquitos, and data entry and analysis. I currently am volunteering two hours a week at the Gardens on Spring Creek working in the butterfly pavilion, which has equipt me with community outreach and public communication. I think that having acess to nature and the ecosystems around us is a privilage, and I want to dedicate my work towards preserving these privilages for generations to come."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a Quantitative Reasonsing class based in R. I wrote some code, and did some cool data sceince."
+  },
+  {
+    "objectID": "Projects.html#building-a-project-website",
+    "href": "Projects.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nIn this assignemnt we built a static users site with Github Pages\nIncludes a github repo for access to all the code\n\nIn Spring of 2024 I took a Geospatial Science class that was based in ArcGIS Pro where I gained useful mapping skills"
+  },
+  {
+    "objectID": "Projects.html#camping-suitability",
+    "href": "Projects.html#camping-suitability",
+    "title": "Projects",
+    "section": "Camping Suitability",
+    "text": "Camping Suitability\n\nIn this project we found sustaible camping spots off the Teton Crest Trail and the best mountain views and least amount of slope\nIncludes a map graphic which visualizes the result of the analysis\nAdditionally there is a snapshot of the completed model in which the map was designed"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tkordiak15.github.io",
+    "title": "Tayler Kordiak",
     "section": "",
-    "text": "YeahThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nddd"
+    "text": "YeahThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
