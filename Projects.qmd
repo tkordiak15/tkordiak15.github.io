@@ -17,6 +17,4 @@ In Spring of 2024 I took a Geospatial Science class that was based in ArcGIS Pro
 
 -   Includes a map graphic which visualizes the result of the analysis
 
--   
-
-    ## Additionally there is a snapshot of the completed model in which the map was designed
+-   Additionally there is a snapshot of the completed model in which the map was designed
