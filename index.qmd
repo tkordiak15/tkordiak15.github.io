@@ -1,6 +1,6 @@
 ---
 title: "Tayler Kordiak"
-image: ESS330/IMG_3575.jpeg
+image: ESS330/tkordiak15.github.io/IMG_3575.jpeg
 toc: false
 about: 
   template: jolla
