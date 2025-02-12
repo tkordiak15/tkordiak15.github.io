@@ -1,7 +1,6 @@
 ---
 title: "Tayler Kordiak"
-image: tkordiak15.github.io/IMG_3575.JPEG
-toc: false
+image: media/headshot.jpeg
 about: 
   template: jolla
   image-shape: round
@@ -14,3 +13,5 @@ about:
   - text: Email
     href: mailto:tkordiak@colostate.edu
 ---
+
+This website includes information about me such as my education, experience, background, interests and projects!

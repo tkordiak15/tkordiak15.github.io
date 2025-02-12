@@ -1,22 +1,35 @@
 ---
 title: "Projects"
+format: html
 ---
 
-In the Spring of 2025 I took a Quantitative Reasonsing class based in R. I wrote some code, and did some cool data sceince.
+## [Building a Project Website]{.underline}
 
-## [Building a project website]()
+In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science.
 
--   In this assignemnt we built a static users site with Github Pages
+-   In this assignment we built a static users site with Github Pages
 -   Includes a github repo for access to all the code
+
+## [Precipitation Data Collection Project]{.underline}
 
 In Spring of 2024 I took a Geospatial Science class that was based in ArcGIS Pro where I gained useful mapping skills
 
-## [Camping Suitability]()
+-   In this project we were to create a map with a legend and locator map of the numerous precipitation gauges at the Colorado State University, Mountain Campus
 
--   In this project we found sustaible camping spots off the Teton Crest Trail and the best mountain views and least amount of slope
+-   Includes a map graphic which visualizes the result of the analysis, along with amounts of precipitation during the 2023 Summer Session
 
--   Includes a map graphic which visualizes the result of the analysis
+-   Here there is a snapshot of the completed layout in which the map was designed
 
--   Additionally there is a snapshot of the completed model in which the map was designed
+![](images/Lab 4 Final Layout.pdf)
 
-## \[Mosquito Trifold\]
+## [Integrated Mosquito Management Trifold Project]{.underline}
+
+I took an internship course in the Summer of 2024 to fulfill my required credits to graduate and did my internship through a mosquito control company called Vector Disease Control International in Loveland, Colorado. As my last assignment I was to create a trifold to inform my professor what I did over the course of my internship.
+
+-   In this project I created a mock informational trifold which highlights what mosquito surveillence is and how to prevent West Nile Virus
+
+-   Includes images of the traps used to capture adult mosquitos, ways to prevent bites, West Nile carrier species numbers through the years, and what happens after we capture the mosquitos
+
+-   Here is the trifold that was created using Canva
+
+![](media/ESS 487 trifold.pdf)

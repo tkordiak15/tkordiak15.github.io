@@ -4,34 +4,55 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi:) My name is Tayler Kordiak and I’m a fourth year at Colorado State University working on my Bachelor’s of Science in Ecosystem Science and Sustainability. I’m excited to get out into the real world and start my first “big girl” job now that my education is coming to a close, and that means that graduate school is not going to be an option, at least for right now. I really enjoy field work, and am skilled in larvacide application, idenification of Colorado and Wyomning mosquitos, and data entry and analysis. I currently am volunteering two hours a week at the Gardens on Spring Creek working in the butterfly pavilion, which has equipt me with community outreach and public communication. I think that having acess to nature and the ecosystems around us is a privilage, and I want to dedicate my work towards preserving these privilages for generations to come."
+    "text": "Hi:) My name is Tayler Kordiak and I’m a fourth year at Colorado State University working on my Bachelor’s of Science in Ecosystem Science and Sustainability. I’m excited to get out into the real world and start my first “big girl” job now that my education is coming to a close, and that means that graduate school is not going to be an option, at least for right now. I really enjoy field work, and am skilled in larvicide application, identification of Colorado and Wyoming mosquitos, and data entry and analysis. I currently am volunteering two hours a week at the Gardens on Spring Creek working in the butterfly pavilion, which has equipped me with community outreach and public communication. I think that having access to nature and the ecosystems around us is a privilege, and I want to dedicate my work towards preserving these privileges for generations to come."
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In the Spring of 2025 I took a Quantitative Reasonsing class based in R. I wrote some code, and did some cool data sceince."
+    "text": "In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science.\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code"
   },
   {
     "objectID": "Projects.html#building-a-project-website",
     "href": "Projects.html#building-a-project-website",
     "title": "Projects",
-    "section": "Building a project website",
-    "text": "Building a project website\n\nIn this assignemnt we built a static users site with Github Pages\nIncludes a github repo for access to all the code\n\nIn Spring of 2024 I took a Geospatial Science class that was based in ArcGIS Pro where I gained useful mapping skills"
+    "section": "",
+    "text": "In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science.\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code"
   },
   {
-    "objectID": "Projects.html#camping-suitability",
-    "href": "Projects.html#camping-suitability",
+    "objectID": "Projects.html#precipitation-data-collection-project",
+    "href": "Projects.html#precipitation-data-collection-project",
     "title": "Projects",
-    "section": "Camping Suitability",
-    "text": "Camping Suitability\n\nIn this project we found sustaible camping spots off the Teton Crest Trail and the best mountain views and least amount of slope\nIncludes a map graphic which visualizes the result of the analysis\nAdditionally there is a snapshot of the completed model in which the map was designed"
+    "section": "Precipitation Data Collection Project",
+    "text": "Precipitation Data Collection Project\nIn Spring of 2024 I took a Geospatial Science class that was based in ArcGIS Pro where I gained useful mapping skills\n\nIn this project we were to create a map with a legend and locator map of the numerous precipitation gauges at the Colorado State University, Mountain Campus\nIncludes a map graphic which visualizes the result of the analysis, along with amounts of precipitation during the 2023 Summer Session\nHere there is a snapshot of the completed layout in which the map was designed"
+  },
+  {
+    "objectID": "Projects.html#integrated-mosquito-management-trifold-project",
+    "href": "Projects.html#integrated-mosquito-management-trifold-project",
+    "title": "Projects",
+    "section": "Integrated Mosquito Management Trifold Project",
+    "text": "Integrated Mosquito Management Trifold Project\nI took an internship course in the Summer of 2024 to fulfill my required credits to graduate and did my internship through a mosquito control company called Vector Disease Control International in Loveland, Colorado. As my last assignment I was to create a trifold to inform my professor what I did over the course of my internship.\n\nIn this project I created a mock informational trifold which highlights what mosquito surveillence is and how to prevent West Nile Virus\nIncludes images of the traps used to capture adult mosquitos, ways to prevent bites, West Nile carrier species numbers through the years, and what happens after we capture the mosquitos\nHere is the trifold that was created using Canva"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file."
+  },
+  {
+    "objectID": "Resume.html#resume",
+    "href": "Resume.html#resume",
+    "title": "Resume",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tayler Kordiak",
     "section": "",
-    "text": "YeahThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This website includes information about me such as my education, experience, background, interests and projects!"
   }
 ]

@@ -9,25 +9,21 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Resume.qmd
+      - Resume.qmd
       - Projects.qmd
-      - icon: github
-        href: https://github.com/tkordiak15
-        target: _blank
       
-page-footer: 
-  background: light 
-  left: Copyright 2025, Tayler Kordiak
-  right: This webiste is built with {{< fa heart title="a heart"}}, [{{< fa brands github title="GitHub octocat logo" >}}](https:github.com/tkordiak15/tkordiak15.github.io){target=blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=blank} and [Quarto](https://quarto.org/){target=_blank}
-
 format:
   html:
-    theme: 
-      light: minty
-      dark: solar
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#02060A"
+    linkcolor: "#8B29DC"
+    monofont: courier new
     css: styles.css
     toc: true
-    page-layout: full
+    toc-location: right
+  
 
 editor: visual
 
