@@ -1,9 +1,8 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+Hi:) My name is Tayler Kordiak and I'm a fourth year at Colorado State University working on my Bachelor's of Science in Ecosystem Science and Sustainability. I'm excited to get out into the real world and start my first "big girl" job now that my education is coming to a close, and that means that graduate school is not going to be an option, at least for right now. I really enjoy field work, and am skilled in larvicide application, identification of Colorado and Wyoming mosquitos, and data entry and analysis. I currently am volunteering two hours a week at the Gardens on Spring Creek working in the butterfly pavilion, which has equipped me with community outreach and public communication. I think that having access to nature and the ecosystems around us is a privilege, and I want to dedicate my work towards preserving these privileges for generations to come.
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------

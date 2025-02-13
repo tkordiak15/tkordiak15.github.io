@@ -1,3 +1,35 @@
 ---
 title: "Projects"
+format: html
 ---
+
+## [Building a Project Website]{.underline}
+
+In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science.
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code
+
+## [Precipitation Data Collection Project]{.underline}
+
+In Spring of 2024 I took a Geospatial Science class that was based in ArcGIS Pro where I gained useful mapping skills
+
+-   In this project we were to create a map with a legend and locator map of the numerous precipitation gauges at the Colorado State University, Mountain Campus
+
+-   Includes a map graphic which visualizes the result of the analysis, along with amounts of precipitation during the 2023 Summer Session
+
+-   Here there is a snapshot of the completed layout in which the map was designed
+
+![](images/Lab%204%20Final%20Layout.pdf)
+
+## [Integrated Mosquito Management Trifold Project]{.underline}
+
+I took an internship course in the Summer of 2024 to fulfill my required credits to graduate and did my internship through a mosquito control company called Vector Disease Control International in Loveland, Colorado. As my last assignment I was to create a trifold to inform my professor what I did over the course of my internship, and use my technical writing skills.
+
+-   In this project I created a mock informational trifold which highlights what mosquito surveillence is and how to prevent West Nile Virus
+
+-   Includes images of the traps used to capture adult mosquitos, ways to prevent bites, West Nile carrier species numbers through the years, and what happens after we capture the mosquitos
+
+-   Here is the trifold that was created using Canva
+
+![](media/ESS%20487%20trifold.pdf)

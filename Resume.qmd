@@ -1,3 +1,14 @@
 ---
 title: "Resume"
+author: "Tayler Kordiak"
+format: html
 ---
+
+## Resume
+
+```{=html}
+<object data="media/Resume_Tayler_Kordiak.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+  <p>It appears you don't have a PDF plugin for this browser.
+  No worries... you can <a href="media/Resume_Tayler_Kordiak.pdf" download>click here to download the PDF file.</a></p>
+</object>
+```

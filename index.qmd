@@ -1,13 +1,17 @@
 ---
-title: "tkordiak15.github.io"
+title: "Tayler Kordiak"
+image: media/headshot.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links: 
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/tayler-kordiak/
+  - text: GitHub
+    href: https://github.com/tkordiak15
+  - text: Email
+    href: mailto:tkordiak@colostate.edu
 ---
 
-YeahThis is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-ddd
+This website includes information about me such as my education, experience, background, interests and projects!
